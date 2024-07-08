@@ -1,0 +1,4 @@
+﻿  rotate_list.cpp
+E:\Ragib\C++ visual studio\rotate_list\rotate_list\rotate_list.cpp(19,12): warning C4101: 'k': unreferenced local variable
+E:\Ragib\C++ visual studio\rotate_list\rotate_list\rotate_list.cpp(19,10): warning C4101: 'j': unreferenced local variable
+  rotate_list.vcxproj -> E:\Ragib\C++ visual studio\rotate_list\x64\Debug\rotate_list.exe
