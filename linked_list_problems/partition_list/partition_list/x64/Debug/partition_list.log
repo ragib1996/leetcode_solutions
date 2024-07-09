@@ -1,0 +1,7 @@
+﻿  partition_list.cpp
+E:\Ragib\C++ visual studio\partition_list\partition_list\partition_list.cpp(19,12): warning C4101: 'k': unreferenced local variable
+E:\Ragib\C++ visual studio\partition_list\partition_list\partition_list.cpp(18,19): warning C4101: 'p': unreferenced local variable
+E:\Ragib\C++ visual studio\partition_list\partition_list\partition_list.cpp(19,15): warning C4101: 'l': unreferenced local variable
+E:\Ragib\C++ visual studio\partition_list\partition_list\partition_list.cpp(19,9): warning C4101: 'j': unreferenced local variable
+E:\Ragib\C++ visual studio\partition_list\partition_list\partition_list.cpp(19,6): warning C4101: 'i': unreferenced local variable
+  partition_list.vcxproj -> E:\Ragib\C++ visual studio\partition_list\x64\Debug\partition_list.exe
