@@ -1,0 +1,12 @@
+﻿  validate_bst.cpp
+E:\Ragib\C++ visual studio\validate_bst\validate_bst\validate_bst.cpp(18,48): warning C4101: 't2': unreferenced local variable
+E:\Ragib\C++ visual studio\validate_bst\validate_bst\validate_bst.cpp(18,38): warning C4101: 'p': unreferenced local variable
+E:\Ragib\C++ visual studio\validate_bst\validate_bst\validate_bst.cpp(18,43): warning C4101: 't': unreferenced local variable
+E:\Ragib\C++ visual studio\validate_bst\validate_bst\validate_bst.cpp(98,29): warning C4101: 'current_node': unreferenced local variable
+E:\Ragib\C++ visual studio\validate_bst\validate_bst\validate_bst.cpp(98,55): warning C4101: 't2': unreferenced local variable
+E:\Ragib\C++ visual studio\validate_bst\validate_bst\validate_bst.cpp(97,15): warning C4101: 'k': unreferenced local variable
+E:\Ragib\C++ visual studio\validate_bst\validate_bst\validate_bst.cpp(98,45): warning C4101: 'p': unreferenced local variable
+E:\Ragib\C++ visual studio\validate_bst\validate_bst\validate_bst.cpp(97,12): warning C4101: 'j': unreferenced local variable
+E:\Ragib\C++ visual studio\validate_bst\validate_bst\validate_bst.cpp(97,9): warning C4101: 'i': unreferenced local variable
+E:\Ragib\C++ visual studio\validate_bst\validate_bst\validate_bst.cpp(98,50): warning C4101: 't': unreferenced local variable
+  validate_bst.vcxproj -> E:\Ragib\C++ visual studio\validate_bst\x64\Debug\validate_bst.exe
