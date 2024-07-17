@@ -1,0 +1,14 @@
+﻿  find_bottom_left_tree_value_513.cpp
+E:\Ragib\C++ visual studio\find_bottom_left_tree_value_513\find_bottom_left_tree_value_513\find_bottom_left_tree_value_513.cpp(19,15): warning C4101: 'k': unreferenced local variable
+E:\Ragib\C++ visual studio\find_bottom_left_tree_value_513\find_bottom_left_tree_value_513\find_bottom_left_tree_value_513.cpp(19,12): warning C4101: 'j': unreferenced local variable
+E:\Ragib\C++ visual studio\find_bottom_left_tree_value_513\find_bottom_left_tree_value_513\find_bottom_left_tree_value_513.cpp(32,28): warning C4101: 'k': unreferenced local variable
+E:\Ragib\C++ visual studio\find_bottom_left_tree_value_513\find_bottom_left_tree_value_513\find_bottom_left_tree_value_513.cpp(33,22): warning C4101: 'p': unreferenced local variable
+E:\Ragib\C++ visual studio\find_bottom_left_tree_value_513\find_bottom_left_tree_value_513\find_bottom_left_tree_value_513.cpp(32,26): warning C4101: 'j': unreferenced local variable
+E:\Ragib\C++ visual studio\find_bottom_left_tree_value_513\find_bottom_left_tree_value_513\find_bottom_left_tree_value_513.cpp(76,30): warning C4101: 'current_node': unreferenced local variable
+E:\Ragib\C++ visual studio\find_bottom_left_tree_value_513\find_bottom_left_tree_value_513\find_bottom_left_tree_value_513.cpp(76,56): warning C4101: 't2': unreferenced local variable
+E:\Ragib\C++ visual studio\find_bottom_left_tree_value_513\find_bottom_left_tree_value_513\find_bottom_left_tree_value_513.cpp(75,15): warning C4101: 'k': unreferenced local variable
+E:\Ragib\C++ visual studio\find_bottom_left_tree_value_513\find_bottom_left_tree_value_513\find_bottom_left_tree_value_513.cpp(76,46): warning C4101: 'p': unreferenced local variable
+E:\Ragib\C++ visual studio\find_bottom_left_tree_value_513\find_bottom_left_tree_value_513\find_bottom_left_tree_value_513.cpp(75,12): warning C4101: 'j': unreferenced local variable
+E:\Ragib\C++ visual studio\find_bottom_left_tree_value_513\find_bottom_left_tree_value_513\find_bottom_left_tree_value_513.cpp(75,9): warning C4101: 'i': unreferenced local variable
+E:\Ragib\C++ visual studio\find_bottom_left_tree_value_513\find_bottom_left_tree_value_513\find_bottom_left_tree_value_513.cpp(76,51): warning C4101: 't': unreferenced local variable
+  find_bottom_left_tree_value_513.vcxproj -> E:\Ragib\C++ visual studio\find_bottom_left_tree_value_513\x64\Debug\find_bottom_left_tree_value_513.exe
