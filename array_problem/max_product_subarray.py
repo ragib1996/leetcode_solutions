@@ -1,5 +1,6 @@
 class Solution:
     def maxProduct(self, nums: list[int]) -> int:
+        """
         max_value = 1
         min_value = 1
         ans = max_value
@@ -14,6 +15,19 @@ class Solution:
                 max_value = max(nums[i], temp , min_value * nums[i])
                 min_value = min(nums[i], temp , min_value * nums[i] )
                 ans = max(max_value, ans)
+
+        return ans 
+        """
+        max_val = nums[0]
+        min_val = nums[0]
+        ans = nums[0]
+
+        for i in range(1, len(nums)):
+            t1 = max_val * nums[i]
+            t2 = min_val * nums[i]
+            max_val = max(nums[i], t1, t2)
+            min_val = min(nums[i], t1, t2)
+            ans = max(ans, max_val)
 
         return ans 
 
